@@ -18,5 +18,5 @@ Function still needs some cleaning and fixing, so it can work when not all twelv
 
 Please feel free to contact me with any questions or comments.
 
-**NOTE: **
+**NOTE:**
 *If you find function handy and use it, cite the source paper; in addition acknowledging my contribution is appreciated.*
