@@ -3,7 +3,7 @@
 R function that recodes GSS religion from three variables (`relig`, `denom`, `other`) to 12 categories, according to Darren E. Sherkat and Derek Lehman, "After The Resurrection: The Field of the Sociology of Religion in the United States". Paper can be accessed through [link on this post](https://iranianredneck.wordpress.com/2016/11/29/why-reltrad-sucks-contesting-the-measure-of-american-religion/) and it contains SPSS syntax based on which I wrote function - also some of the comments in the code are pasted from there.
 
 **Attention!**
-Function is usable but with certain limitations. at this moment It successfully works only when *all* final groups are present in data (e.g. 2014), for respondent's religion and religion at the age of 16 (although the process can be used on other derived variables), and when data is imported from SPSS file to data frame, with trimmed factor names and values, without use of missing values.
+Function is usable but with certain limitations. At this moment it successfully works only when *all* final groups are present in data (e.g. 2014), for respondent's religion and religion at the age of 16 (although the process can be used on other derived variables), and when data is imported from SPSS file to data frame, with trimmed factor names and values, without use of missing values.
 
 2014 GSS data is used as test, and it can be freely downloaded from NORC's [website](http://gss.norc.org/get-the-data).
 
