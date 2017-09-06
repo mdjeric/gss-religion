@@ -15,6 +15,6 @@ As a starting point for a more universal recoding function, this one uses three 
 
 This allows that basic structure can be used for recoding of all three-variable sets of religious identification that can be imported as either factors with names or numerical values (or combination, as is the case with some sets), easy recoding into different number of groups, and printing of detailed classification that includes names of all religions and denominations.
 
-Function still needs some cleaning, so it can work when not all twelve groups are present, as well as generalization for handling different coding of variables. I will periodically update it, as I occasionally improve it.
+Function still needs some cleaning and fixing, so it can work when not all twelve groups are present, as well as generalization for handling different coding of variables. I will periodically update it, as I occasionally improve it.
 
 Please feel free to contact me with any questions or comments.
